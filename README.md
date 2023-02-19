@@ -9,5 +9,5 @@ I'm [Dejan Mircetic](https://www.linkedin.com/feed/update/urn:li:activity:699319
 - 🤔 I’m looking for help with IoT devices. 
 - 💬 Ask me anything about supply chains & logistics, business intelligence, time series forecasting, mathematical optimization, project management...
 - 📫 How to reach me: if you like AI, logistics and supply chains, feel free to reach me at dejanmircetic@gmail.com. Maybe we can do joint research or a business project!!!
-- ⚡ Fun fact: passionate about helping people in Africa, playing guitar and basketball, as well as creating the AI solutions for industry via R...best statistical program ever!!!
+- ⚡ Fun fact: passionate about programing in R, helping people in Africa, playing guitar and basketball, as well as creating the AI solutions for industry & business!!!
 
