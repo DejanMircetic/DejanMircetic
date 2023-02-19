@@ -4,6 +4,7 @@ I'm [Dejan Mircetic](https://www.linkedin.com/feed/update/urn:li:activity:699319
 
 - 🔭 I’m currently working on temporal aggregation of time series, integrating AI in supply chains, testing the limits of statistical modeling vs machine laerning, industry 4.0. For more details, please refer to my [scientific papers](https://www.researchgate.net/profile/Dejan-Mircetic).
 - :microscope: Check out my projects from [business intelligence, supply chain analytics, humanitarian area, AI, machine learning...](https://www.linkedin.com/in/dejan-mircetic-9b03b896/details/projects/)
+- -:microphone: Check out my interviews for media: [To break the fear of applying new technologies](https://biznis.rs/vesti/srbija/razbiti-strah-od-primene-novih-tehnologija/), [Talents together 5.0 - Back to the future](https://www.linkedin.com/posts/ai-institute-serbia_ai-refuture-aiserbia-activity-7016743285805199361-OD4w?utm_source=share&utm_medium=member_desktop)...
 - 🌱 I’m currently learning convolution neural networks.
 - 👯 I’m looking to collaborate on hierarchical & temporal time series forecasting, IoT devices, business intelligence...
 - 🤔 I’m looking for help with IoT devices. 
